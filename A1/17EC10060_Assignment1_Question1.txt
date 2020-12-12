@@ -1,0 +1,45 @@
+NUMBER OF LINES IN RDD:
+9669634                                                                         
+
+
+NUMBER OF WARN MESSAGES:
+132158                                                                          
+
+
+NUMBER OF REPOSITORIES PROCESSED WHEN retrieval_stage IS api_client:
+71820                                                                           
+
+
+CLIENTS WITH THE MOST HTTP REQUESTS [TOP 5]:
+(13,135978)                                                                     
+(21,100906)
+(20,31401)
+(40,30774)
+(42,27631)
+
+
+CLIENTS WITH THE MOST FAILED HTTP REQUESTS [TOP 5]:
+(13,79623)                                                                      
+(21,1378)
+(40,1134)
+(18,368)
+(42,357)
+
+
+MOST ACTIVE HOUR OF THE DAY:
+(10,2662487)                                                                    
+
+
+MOST ACTIVE REPOSITORY:
+(greatfakeman/Tabchi,79532)                                                     
+
+
+ACCESS KEYS FAILING MOST OFTEN [TOP 5]:
+(ac6168f8776,79623)                                                             
+(46f11b5791b,1340)
+(9115020fb01,1134)
+(c1240f63b5b,371)
+(2776f3ba0a5,368)
+
+
+

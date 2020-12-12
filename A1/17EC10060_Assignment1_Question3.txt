@@ -1,0 +1,15 @@
+NUMBER OF RECORDS IN assignment_2 FILE:
+1435
+
+
+NUMBER OF RECORDS IN LOG FILE REFERRING TO ENTRIES IN assignment_2 FILE:
+87930                                                                           
+
+
+REPOSITORIES HAVING THE MOST FAILED API CALLS [TOP 5]:
+(hello-world,740)                                                               
+(test,309)
+(demo,166)
+(Test,88)
+(-,47)
+

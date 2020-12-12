@@ -1,0 +1,6 @@
+NUMBER OF DIFFERENT REPOSITORIES ACCESSED BY CLIENT 'ghtorrent-22' (WITHOUT INVERTED INDEX):
+3870                                                                            
+
+
+NUMBER OF DIFFERENT REPOSITORIES ACCESSED BY CLIENT 'ghtorrent-22' (WITH INVERTED INDEX):
+3871
